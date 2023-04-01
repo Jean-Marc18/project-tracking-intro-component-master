@@ -196,6 +196,10 @@ main {
     -o-border-radius: 5px;
 }
 
+.sectionLeft a:hover {
+  background: hsla(0, 100%, 68%, 0.78);
+}
+
 .button-part {
     display: flex;
     align-items: center;
